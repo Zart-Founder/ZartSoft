@@ -1,5 +1,5 @@
-# SECURITY
-## ZABT
+# Version support
+### ZABT
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.2.x   | :white_check_mark: |
