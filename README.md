@@ -6,6 +6,6 @@ QQemail:2980509800@qq.com
 Gmail:taoqila@gmail.com   
 Bilibili:淘气气气啦 (https://space.bilibili.com/353586902)   
 
-If you need to know whether certain versions of the software are supported by security please visit https://github.com/Zart-Founder/ZartSoftware/blob/master/Version%20support.md
+If you need to know whether certain versions of the software are supported by security please visit https://github.com/Zart-Founder/ZartSoftware/blob/master/SECURITY.md
 
 Thank you!
